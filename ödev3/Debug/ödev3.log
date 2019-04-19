@@ -1,0 +1,5 @@
+﻿  test.cpp
+c:\users\serhan\documents\visual studio 2015\projects\ödev3\ödev3\test.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\serhan\documents\visual studio 2015\projects\ödev3\ödev3\test.cpp(32): warning C4018: '<': signed/unsigned mismatch
+  ödev3.vcxproj -> c:\users\serhan\documents\visual studio 2015\Projects\ödev3\Debug\ödev3.exe
+  ödev3.vcxproj -> c:\users\serhan\documents\visual studio 2015\Projects\ödev3\Debug\ödev3.pdb (Full PDB)
